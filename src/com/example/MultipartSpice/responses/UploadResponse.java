@@ -1,7 +1,6 @@
 package com.example.MultipartSpice.responses;
 
 /**
- * Copyright (c) 2013 MadeByMany. All rights reserved.
  * Project: MultipartSpice
  * Package: com.example.MultipartSpice.responses
  * User: Nelson Sachse
